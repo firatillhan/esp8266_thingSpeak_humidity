@@ -1,0 +1,1 @@
+Mikroislemciler dersi icin yapmis oldugum ESP8266 ve Toprak Nem sensoru kullanarak topragin nemini olcen, nem degerlerini thingspeake gönderen ayrica nemin degerine gore topragi su motoru ile sulayan Arduino projesi
